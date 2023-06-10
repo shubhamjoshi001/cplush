@@ -5,7 +5,7 @@ class BankAccount
 {
 	public:
 	int bal=20000;
-	char name[20]="HARSHDEEP";
+	char name[20]="Shuubham";
 	char type[10]="cureent";
 	long int accountnumber=234567890456;
 	int de,with,tod,towith;
